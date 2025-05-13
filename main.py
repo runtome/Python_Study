@@ -59,31 +59,31 @@
 # a *= b
 # print(a)
 
-# pythn built in functions
-a = 'Hello World'
-print(a)
-print(type(a))
-print(len(a))
+# # pythn built in functions
+# a = 'Hello World'
+# print(a)
+# print(type(a))
+# print(len(a))
 
-a = 12
-print(type(a))
-print(type(str(a)))
-print(int(a))
-print(float(a))
-
-
-a = '1234'
-b = '5678'
-print(a+b)
+# a = 12
+# print(type(a))
+# print(type(str(a)))
+# print(int(a))
+# print(float(a))
 
 
-# methods
-a = 'Hello World'
-print(a)
-print(a.upper())
-print(a.lower())
-print(a.title())
-print(a.capitalize())
-print(a.strip())
-a=a.replace('Hello', '123')
-print(a)
+# a = '1234'
+# b = '5678'
+# print(a+b)
+
+
+# # methods
+# a = 'Hello World'
+# print(a)
+# print(a.upper())
+# print(a.lower())
+# print(a.title())
+# print(a.capitalize())
+# print(a.strip())
+# a=a.replace('Hello', '123')
+# print(a)
