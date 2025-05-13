@@ -1,5 +1,19 @@
-print('Test GitHub Actions 2')
-print('Test GitHub Actions 3')
-print('Test GitHub Actions 4')
-print('Test GitHub Actions 5')
-print('Test GitHub Actions 6')
+## Data type 
+# Int
+# Float
+# Bool
+# String
+# Tuple
+# Set
+# Dictionary
+
+# Math + - * /
+# String + *
+
+
+#integer
+a = 5
+b = 10
+c = a + b
+print(c)
+print(type(c))
