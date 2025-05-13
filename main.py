@@ -31,30 +31,59 @@
 # print(my_Age)
 
 
-PI = 3.14 # Donot change
-radius = 5
+# PI = 3.14 # Donot change
+# radius = 5
 
-PI = 4
+# PI = 4
 
-a, b = 5, 10
+# a, b = 5, 10
+# print(a)
+
+# a = 10
+# b = 20
+# a = a + b
+# print(a)
+
+# a = 10
+# b = 20
+# a += b
+# print(a)
+
+# a = 10
+# b = 20
+# a -= b
+# print(a)
+
+# a = 10
+# b = 20
+# a *= b
+# print(a)
+
+# pythn built in functions
+a = 'Hello World'
 print(a)
+print(type(a))
+print(len(a))
 
-a = 10
-b = 20
-a = a + b
+a = 12
+print(type(a))
+print(type(str(a)))
+print(int(a))
+print(float(a))
+
+
+a = '1234'
+b = '5678'
+print(a+b)
+
+
+# methods
+a = 'Hello World'
 print(a)
-
-a = 10
-b = 20
-a += b
-print(a)
-
-a = 10
-b = 20
-a -= b
-print(a)
-
-a = 10
-b = 20
-a *= b
+print(a.upper())
+print(a.lower())
+print(a.title())
+print(a.capitalize())
+print(a.strip())
+a=a.replace('Hello', '123')
 print(a)
