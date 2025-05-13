@@ -20,12 +20,41 @@
 
 
 #Variable
-year = 2023
-print(year)
-print(type(year))
+# year = 2023
+# print(year)
+# print(type(year))
 
-user_name = "John Doe"
-print(user_name)
+# user_name = "John Doe"
+# print(user_name)
 
-my_age = 25
-print(my_Age)
+# my_age = 25
+# print(my_Age)
+
+
+PI = 3.14 # Donot change
+radius = 5
+
+PI = 4
+
+a, b = 5, 10
+print(a)
+
+a = 10
+b = 20
+a = a + b
+print(a)
+
+a = 10
+b = 20
+a += b
+print(a)
+
+a = 10
+b = 20
+a -= b
+print(a)
+
+a = 10
+b = 20
+a *= b
+print(a)
