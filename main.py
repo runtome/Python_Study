@@ -87,3 +87,36 @@
 # print(a.strip())
 # a=a.replace('Hello', '123')
 # print(a)
+
+# Booleans & Lists
+# bool
+name = 'Myname'
+is_man = True
+is_woman  = False
+# print(is_man)
+# print(is_woman)
+# print(bool(1))
+# print(bool(0))
+# print(bool(''))
+# print(bool('Hello'))
+# print(bool([]))
+# print(bool([1, 2, 3]))
+
+list1 = [1, 2, 3, 4, 5]
+list2 = [1]
+
+if list1:
+    print(list1)
+    
+if list2:
+    print("List is not empty")
+    
+
+
+ #List Method and Matrix
+ #Dictionary
+ #Tuple
+ #Sets 
+ 
+ 
+ ## Read book 6 and 11
